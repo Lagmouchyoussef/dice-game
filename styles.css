@@ -32,6 +32,52 @@ img {
   width: 80%;
 }
 
+/* Dice Rolling Animation */
+@keyframes roll {
+  0% {
+    transform: rotate(0deg) scale(1);
+  }
+  25% {
+    transform: rotate(90deg) scale(1.1);
+  }
+  50% {
+    transform: rotate(180deg) scale(1);
+  }
+  75% {
+    transform: rotate(270deg) scale(1.1);
+  }
+  100% {
+    transform: rotate(360deg) scale(1);
+  }
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+.rolling {
+  animation: roll 0.5s ease-in-out infinite, bounce 0.3s ease-in-out infinite;
+}
+
+/* Winner highlight animation */
+@keyframes winner-glow {
+  0%, 100% {
+    filter: drop-shadow(0 0 10px #4ECCA3);
+  }
+  50% {
+    filter: drop-shadow(0 0 30px #4ECCA3);
+  }
+}
+
+.winner {
+  animation: winner-glow 1s ease-in-out infinite;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
