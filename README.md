@@ -4,7 +4,7 @@
 
 ### *A Dynamic Two-Player Dice Game Built with Vanilla JavaScript*
 
-<img src="images/dice1.png" alt="Dice Logo" width="120" height="120">
+<img src="https://raw.githubusercontent.com/Lagmouchyoussef/dice-game/main/images/dice1.png" alt="Dice Logo" width="120" height="120">
 
 ---
 
