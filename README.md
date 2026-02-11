@@ -103,9 +103,16 @@ graph LR
 
 ### 🖼️ Screenshots
 
-![Dice Game Screenshot](https://raw.githubusercontent.com/Lagmouchyoussef/dice-game/main/Capture%20d'%C3%A9cran%202026-02-11%20234640.png)
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/Lagmouchyoussef/dice-game/main/Capture%20d'%C3%A9cran%202026-02-11%20234640.png" alt="Dice Game Screenshot" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
-*The dice game interface showing Player 1 as the winner*
+<br>
+<br>
+
+*🎯 The dice game interface showing Player 1 as the winner*
+
+</div>
 
 </div>
 
