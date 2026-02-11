@@ -104,7 +104,8 @@ graph LR
 ### 🖼️ Screenshots
 
 ```
-<img width="1328" height="571" alt="Image" src="https://github.com/user-attachments/assets/7ed7b88e-c1d4-4340-8f13-d8d14f81dda4" />
+<img width="1328" height="571" alt="Capture d&#39;écran 2026-02-11 234640" src="https://github.com/user-attachments/assets/2cfee92b-342e-4ef1-b0b0-e41ee4e2f2c6" />
+
 ```
 
 </div>
